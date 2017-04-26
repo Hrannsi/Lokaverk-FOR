@@ -1,0 +1,79 @@
+-----Sokkir frá Brúnarstöðum-----
+Þyngd: 41kg
+Mjólk: 108
+Ull: 7
+Afkvæmi: 0
+Lærvöðvi: 17.3
+Kyn: 108
+Kjöt: 144
+Rassvöðvi: 8.5
+
+-----Freyðir frá Hesti-----
+Þyngd: 46.4kg
+Mjólk: 105
+Ull: 7.9
+Afmvæmi:135
+Lærvöðvi: 17.4
+Kyn: 103
+Kjöt: 118
+Rassvöðvi: 8.6
+
+-----Vöðvi frá Hafnardal-----
+Þyngd: 47kg
+Mjólk: 100
+Ull: 8
+Afkvæmi: 0
+Lærvöðvi: 17.5
+Kyn: 106
+Kjöt: 112
+Rassvöðvi: 9
+
+-----Kjói frá Sauðadalsá-----
+Þyngd: 48.8kg
+Mjólk: 116
+Ull: 8.4
+Afkvæmi: 160
+Lærvöðvi: 17
+Kyn: 94
+Kjöt: 111
+Rassvöðvi: 8.3
+
+-----Bogi frá Heydalsá-----
+Þyngd: 49.9kg
+Mjólk: 110
+Ull: 8.4
+Afkvæmi: 310
+Lærvöðvi: 17.3
+Kyn: 102
+Kjöt: 116
+Rassvöðvi: 8.5
+
+-----Falur frá Heydalsá-----
+Þyngd: 48.3kg
+Mjólk: 106
+Ull: 8.3
+Afkvæmi: 26
+Lærvöðvi: 16.9
+Kyn: 92
+Kjöt: 114
+Rassvöðvi: 8.3
+
+-----Borði frá Hesti-----
+Þyngd: 42kg
+Mjólk: 110
+Ull: 8
+Afmvæmi: 0
+Lærvöðvi: 18
+Kyn: 104
+Kjöt: 0
+Rassvöðvi: 9
+
+-----Freyðir frá Hesti-----
+Þyngd: 47.5kg
+Mjólk: 104
+Ull: 7.8
+Afmvæmi:347
+Lærvöðvi: 17.2
+Kyn: 106
+Kjöt: 102
+Rassvöðvi: 8.4
