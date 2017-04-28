@@ -1,0 +1,190 @@
+-----Sokkir frá Brúnarstöðum-----
+Þyngd: 41kg
+Mjólk: 108
+Ull: 7
+Afkvæmi: 0
+Lærvöðvi: 17.3
+Frjósemi: 108
+Kjöt: 144
+Rassvöðvi: 8.5
+
+-----Freyðir frá Hesti-----
+Þyngd: 46.4kg
+Mjólk: 105
+Ull: 7.9
+Afmvæmi:135
+Lærvöðvi: 17.4
+Frjósemi: 103
+Kjöt: 118
+Rassvöðvi: 8.6
+
+-----Vöðvi frá Hafnardal-----
+Þyngd: 47kg
+Mjólk: 100
+Ull: 8
+Afkvæmi: 0
+Lærvöðvi: 17.5
+Frjósemi: 106
+Kjöt: 112
+Rassvöðvi: 9
+
+-----Kjói frá Sauðadalsá-----
+Þyngd: 48.8kg
+Mjólk: 116
+Ull: 8.4
+Afkvæmi: 160
+Lærvöðvi: 17
+Frjósemi: 94
+Kjöt: 111
+Rassvöðvi: 8.3
+
+-----Bogi frá Heydalsá-----
+Þyngd: 49.9kg
+Mjólk: 110
+Ull: 8.4
+Afkvæmi: 310
+Lærvöðvi: 17.3
+Frjósemi: 102
+Kjöt: 116
+Rassvöðvi: 8.5
+
+-----Falur frá Heydalsá-----
+Þyngd: 48.3kg
+Mjólk: 106
+Ull: 8.3
+Afkvæmi: 26
+Lærvöðvi: 16.9
+Frjósemi: 92
+Kjöt: 114
+Rassvöðvi: 8.3
+
+-----Borði frá Hesti-----
+Þyngd: 42kg
+Mjólk: 110
+Ull: 8
+Afmvæmi: 0
+Lærvöðvi: 18
+Frjósemi: 104
+Kjöt: 0
+Rassvöðvi: 9
+
+-----Bramli frá Hesti-----
+Þyngd: 47.5kg
+Mjólk: 104
+Ull: 7.8
+Afmvæmi:347
+Lærvöðvi: 17.2
+Frjósemi: 106
+Kjöt: 102
+Rassvöðvi: 8.4
+
+-----Kaldi frá Kaldbak-----
+Þyngd: 47.8kg
+Mjólk: 100
+Ull: 7.9
+Afkvæmi: 218
+Lærvöðvi: 17.1
+Frjósemi: 135
+Kjöt: 93
+Rassvöðvi: 8.4
+
+-----Vorm frá Holtahólum-----
+Þyngd: 47.6kg
+Mjólk: 95
+Ull: 7.8
+Afkvæmi: 158
+Lærvöðvi: 17.3
+Frjósemi: 111
+Kjöt: 122
+Rassvöðvi: 8.5
+
+-----Smyrill frá Smyrlabjörgum-----
+Þyngd: 47.8kg
+Mjólk: 101
+Ull: 7.9
+Afkvæmi: 97
+Lærvöðvi: 17.2
+Frjósemi: 95
+Kjöt: 114
+Rassvöðvi: 8.4
+
+-----Prjón frá Hesti-----
+Þyngd: 47.5kg
+Mjólk: 110
+Ull: 7.8
+Afkvæmi: 370
+Lærvöðvi: 17.5
+Frjósemi: 105
+Kjöt: 122
+Rassvöðvi: 8.6
+
+-----Grábotni frá Vogum 2-----
+Þyngd: 45kg
+Mjólk: 102
+Ull: 7.5
+Afkvæmi: 0
+Lærvöðvi: 17.5
+Frjósemi: 106
+Kjöt: 139
+Rassvöðvi: 8.5
+
+-----Kóngur frá Sauðá-----
+Þyngd: 59kg
+Mjólk: 108
+Ull: 8
+Afkvæmi: 0
+Lærvöðvi: 17.5
+Frjósemi: 105
+Kjöt: 114
+Rassvöðvi: 8.5
+
+-----Garpur frá Smáhömrum-----
+Þyngd: 48.6kg
+Mjólk: 106
+Ull: 8.2
+Afkvæmi: 101
+Lærvöðvi: 17.3
+Frjósemi: 98
+Kjöt: 116
+Rassvöðvi: 8.5
+
+-----Broddi frá Broddanesi 1-----
+Þyngd: 57kg
+Mjólk: 92
+Ull: 7.5
+Afkvæmi: 0
+Lærvöðvi: 18
+Frjósemi: 99
+Kjöt: 144
+Rassvöðvi: 9.5
+
+-----Frakkson frá Árbæ-----
+Þyngd: 49.6kg
+Mjólk: 110
+Ull: 8.4
+Afkvæmi: 325
+Lærvöðvi: 17.2
+Frjósemi: 106
+Kjöt: 117
+Rassvöðvi: 8.4
+
+-----Raftur frá Hesti-----
+Þyngd: 47.1kg
+Mjólk: 106
+Ull: 7.8
+Afkvæmi: 1406
+Lærvöðvi: 17.6
+Frjósemi: 112
+Kjöt: 122
+Rassvöðvi: 8.6
+
+-----Blossi frá Heydalsá-----
+Þyngd: 54kg
+Mjólk: 108
+Ull: 8.5
+Afkvæmi: 0
+Lærvöðvi: 18
+Frjósemi: 111
+Kjöt: 113
+Rassvöðvi: 9
+
